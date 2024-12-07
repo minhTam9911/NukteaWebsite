@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Migrations\\20241207111637_DbInital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebMVC\\Migrations\\20241207111637_DbInital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|c:\\users\\minht\\desktop\\nukteaecommerce\\nukteawebsite\\webmvc\\webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D73C8087-B8D5-4918-A863-BEB492EE4140}|WebMVC\\WebMVC.csproj|solutionrelative:webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241207111637_DbInital.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Migrations\\20241207111637_DbInital.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Migrations\\20241207111637_DbInital.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Migrations\\20241207111637_DbInital.cs",
+              "RelativeToolTip": "WebMVC\\Migrations\\20241207111637_DbInital.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:16:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Program.cs",
+              "RelativeToolTip": "WebMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:04:53.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "WebMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\appsettings.json",
+              "RelativeToolTip": "WebMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T11:04:06.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\DatabaseContext.cs",
+              "RelativeToolTip": "WebMVC\\Models\\DatabaseContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBMAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:01:15.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\ProductImage.cs",
+              "RelativeToolTip": "WebMVC\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:51:02.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\Product.cs",
+              "RelativeToolTip": "WebMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:49:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\Role.cs",
+              "RelativeToolTip": "WebMVC\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:47:06.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:46:03.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\User.cs",
+              "RelativeToolTip": "WebMVC\\Models\\User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:18:49.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\BaseModel.cs",
+              "RelativeToolTip": "WebMVC\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:16:32.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Models\\Category.cs",
+              "RelativeToolTip": "WebMVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:14:26.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:09:45.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIwAAAAAAAAAAABRwMwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T07:47:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAgwGMBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T07:43:24.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwHoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T07:27:01.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minht\\Desktop\\NukTeaECommerce\\NukTeaWebsite\\WebMVC\\WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T07:26:38.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
